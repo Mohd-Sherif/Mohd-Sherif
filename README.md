@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Mohd-Sherif&base=1000&style=plastic&color=blueviolet)
 
 ### About me:
-A Senior Computer Engineering Student, with Embedded Software Engineering background, and a deep passion for learning new technologies looking forward to earning a spot in the ever-evolving field of computer science and establishing a career in CyberSecurity. Completed key certifications including OSCP, eJPT, Wireless Penetration Testing, CEH, and CompTIA Security+. Applicated this knowledge in solving Labs at Portswigger, Rooms at TryHackMe, CTFs at CyberTalents and Machines at INE.
+A Computer Engineer, with Embedded Software Engineering background, and a deep passion for learning new technologies looking forward to earning a spot in the ever-evolving field of computer science and establishing a career in CyberSecurity. Completed key certifications including OSCP, eJPT, Wireless Penetration Testing, CEH, and CompTIA Security+. Applicated this knowledge in solving Labs at Portswigger, Rooms at TryHackMe, CTFs at CyberTalents and Machines at INE.
 
 - :mailbox: How to reach me: Mohd-Sherif@outlook.com
 
