@@ -1,5 +1,5 @@
 # ✨ Mohamed Sherif  <a href="https://www.linkedin.com/in/Mohd-Sherif"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-**` Senior Electronics, Communication and Computer Engineering Student  `**
+**` Electronics, Communication and Computer Engineer `**
 
 ![](https://komarev.com/ghpvc/?username=Mohd-Sherif&base=1000&style=plastic&color=blueviolet)
 
